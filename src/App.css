@@ -36,7 +36,7 @@
 .title{
   width: 90%;
   font-size: 40px;
-  letter-spacing: 5px;
+  letter-spacing: 4px;
   margin-bottom: 20px;
   border-bottom: 2px solid #b3b3b3b3;
 }
@@ -172,3 +172,7 @@
   border: none;
   background: #000;
 }
+
+@media (max-width: 575px) {
+  .title{ font-size: 30px; }
+  }
