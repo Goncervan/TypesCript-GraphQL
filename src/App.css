@@ -34,13 +34,14 @@
 }
 
 .title{
-  width: auto;
-  font-size: 50px;
+  width: 90%;
+  font-size: 40px;
   letter-spacing: 5px;
   margin-bottom: 20px;
   border-bottom: 2px solid #b3b3b3b3;
 }
 .subTitle{
+  /* height: 300px; */
   width: auto;
   display: block;
   font-family: monospace;
