@@ -175,4 +175,5 @@
 
 @media (max-width: 575px) {
   .title{ font-size: 30px; }
-  }
+  
+  .subTitle{ font-size: 18px;}}
