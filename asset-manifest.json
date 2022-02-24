@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TypesCript-GraphQL/static/css/main.4da5011f.css",
+    "main.js": "/TypesCript-GraphQL/static/js/main.c40f11d1.js",
+    "index.html": "/TypesCript-GraphQL/index.html",
+    "main.4da5011f.css.map": "/TypesCript-GraphQL/static/css/main.4da5011f.css.map",
+    "main.c40f11d1.js.map": "/TypesCript-GraphQL/static/js/main.c40f11d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4da5011f.css",
+    "static/js/main.c40f11d1.js"
+  ]
+}
