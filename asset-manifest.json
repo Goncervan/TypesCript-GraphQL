@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/TypesCript-GraphQL/static/css/main.c1527da2.css",
+    "main.css": "/TypesCript-GraphQL/static/css/main.90bfab31.css",
     "main.js": "/TypesCript-GraphQL/static/js/main.c40f11d1.js",
     "index.html": "/TypesCript-GraphQL/index.html",
-    "main.c1527da2.css.map": "/TypesCript-GraphQL/static/css/main.c1527da2.css.map",
+    "main.90bfab31.css.map": "/TypesCript-GraphQL/static/css/main.90bfab31.css.map",
     "main.c40f11d1.js.map": "/TypesCript-GraphQL/static/js/main.c40f11d1.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1527da2.css",
+    "static/css/main.90bfab31.css",
     "static/js/main.c40f11d1.js"
   ]
 }
